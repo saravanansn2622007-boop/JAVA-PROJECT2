@@ -1,0 +1,28 @@
+====================================================================================================
+                             KONGU ENGINEERING COLLEGE (AUTONOMOUS)
+                                AFFILIATED TO ANNA UNIVERSITY
+                           ACADEMIC & CONTINUOUS EVALUATION GRADE SHEET
+====================================================================================================
+ Roll Number   : 24ITR001              Semester           : 3
+ Student Name  : ARAVIND KUMAR S       Department         : INFORMATION TECHNOLOGY
+ Attendance    :  92.50%               Condonation Status : NOT APPLICABLE
+----------------------------------------------------------------------------------------------------
+COURSE    | COURSE TITLE               | CATEGORY  | CRED | CIA1  | CIA2  | ASSGN | ESE   | TOT  | GRD
+----------------------------------------------------------------------------------------------------
+24ITE31   | Full Stack Web Development | EMBEDDED  |    4 |  62.0 |  64.0 |  67.0 |  57.0 |  60.8 | B   
+24ITP31   | Java & Cloud Computing Lab | PRACTICAL |    2 |  73.0 |  75.0 |  78.0 |  68.0 |  72.6 | A   
+24ITP32   | DBMS & SQL Laboratory      | PRACTICAL |    2 |  74.0 |  76.0 |  79.0 |  69.0 |  73.6 | A   
+24ITT31   | Advanced Java Programming  | THEORY    |    3 |  77.0 |  79.0 |  82.0 |  72.0 |  75.0 | A   
+24ITT32   | Database Management System | THEORY    |    3 |  78.0 |  80.0 |  83.0 |  73.0 |  76.0 | A   
+24ITT33   | Computer Networks          | THEORY    |    3 |  79.0 |  81.0 |  84.0 |  74.0 |  77.0 | A   
+----------------------------------------------------------------------------------------------------
+ Total Enrolled Credits       : 17
+ Semester GPA (SGPA)          : 7.53 / 10.00
+ Equivalent Percentage        : 75.29%
+====================================================================================================
+ Evaluation Weights:
+  * THEORY    : 40% CIA + 60% ESE (ESE Min: 27/60 | Pass Min: 50)
+  * PRACTICAL : 60% CIA + 40% ESE (ESE Min: 20/40 | Pass Min: 50)
+  * EMBEDDED  : 50% CIA + 50% ESE (ESE Min: 22.5/50 | Pass Min: 50)
+  * Grading   : O (91-100), A+ (81-90), A (71-80), B+ (61-70), B (50-60), RA (<50 or ESE fail)
+====================================================================================================

@@ -1,0 +1,14 @@
+===================================================================================================
+                        KONGU ENGINEERING COLLEGE (AUTONOMOUS) - ERODE
+                          ATTENDANCE DEFAULTER & CONDONATION AUDIT LIST
+                               REGULATION 2024 (R2024) - B.TECH IT
+===================================================================================================
+ROLL NO      | STUDENT NAME                 | ATTENDANCE   | CONDONATION  | ESE ELIGIBILITY STATUS   
+---------------------------------------------------------------------------------------------------
+24ITR004     | DINESH KARTHIK M             |      71.50% | APPROVED     | CONDONED (ELIGIBLE)      
+24ITR005     | EZHIL MARAN K                |      67.80% | NONE         | ACTION REQ: PENDING CONDONATION
+24ITR006     | FATHIMA ZAHRA A              |      58.40% | NONE         | SA (BARRED FROM ESE)     
+24ITR008     | HARIHARAN P                  |      63.00% | NONE         | SA (BARRED FROM ESE)     
+24ITR010     | JEEVAN KUMAR S               |      49.20% | NONE         | SA (BARRED FROM ESE)     
+===================================================================================================
+Total Defaulters Identified: 5 (Generated via BufferedWriter File I/O)

@@ -1,0 +1,12 @@
+roll_no,student_name,department,semester,attendance_percentage,medical_condonation
+24ITR001,  Aravind Kumar S  ,  information technology  ,3,92.50,false
+24ITR002,Bhavana Priya R,information technology,3,86.00,false
+24ITR003, Chandru V ,INFORMATION TECHNOLOGY,3,78.20,false
+24ITR004,Dinesh Karthik M,Information Technology,3,71.50,true
+24ITR005,  Ezhil Maran K ,information technology,3,67.80,false
+24ITR006,Fathima Zahra A,information technology,3,58.40,false
+24ITR007,Gokul Nath T,Information Technology,3,95.00,false
+24ITR008,Hariharan P,Information Technology,3,63.00,false
+24ITR009,Ishwarya Lakshmi R,Information Technology,3,84.50,false
+24ITR010,Jeevan Kumar S,Information Technology,3,49.20,false
+

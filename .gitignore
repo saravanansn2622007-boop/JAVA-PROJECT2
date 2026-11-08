@@ -1,0 +1,10 @@
+# Compiled Java class files
+*.class
+
+# SQLite local test database
+*.db
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
